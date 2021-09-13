@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Neil's Morsels"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hallo, and guten tag. I hope you take the time to enjoy some of my delectable morsels. They shall trickle down from the bread that is my compendium of projects.
