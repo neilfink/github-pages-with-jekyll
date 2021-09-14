@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: monospace;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 1.29em;
+}
+
+.wrapper {
+    padding-left: 30px;
+    padding-right: 30px;
+    color: azure;
+    display: flex;
+    flex-flow: row;
+}
+
+.header-text {
+    white-space: nowrap;
+    padding-right: 30px;
+    margin: auto;
+}
+
+.header-image {
+    margin: auto;
+}
+
+.profile-image {
+    max-width: 8em;
+    border-radius: 40px;
+}
+
+.site-header {
+    background-color: rgb(32, 32, 32);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.header-links {
+    text-align: right;
+    width: 100%;
+    margin: auto;
+    white-space: nowrap;
+}
+
+.header-link {
+    max-width: 3.5em;
+    padding-left: 10px;
+}
