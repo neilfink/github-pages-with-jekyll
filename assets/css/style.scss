@@ -11,11 +11,15 @@
 
 h1 {
     font-size: 3em;
+    margin: 0px;
+    padding: 0px;
 }
 
 h2 {
     font-weight: normal;
     font-size: 1.29em;
+    margin: 0px;
+    padding: 0px;
 }
 
 .wrapper {
@@ -51,6 +55,12 @@ h2 {
 
 .site-title {
     margin: 0px;
+    padding: 0px;
+}
+
+.site-subtitle {
+    margin: 0px;
+    padding: 0px;
 }
 
 .header-links {
