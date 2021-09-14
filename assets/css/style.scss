@@ -2,6 +2,7 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
 * {
     margin: 0px;
     padding: 0px;
@@ -46,6 +47,10 @@ h2 {
     padding-right: 15px;
     padding-top: 25px;
     padding-bottom: 25px;
+}
+
+.site-title {
+    margin: 0px;
 }
 
 .header-links {
