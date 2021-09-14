@@ -5,8 +5,13 @@
 
 header {
   display: none;
+  background-color: grey;
+}
+
+.site-header {
+  background-color: grey; 
 }
 
 .site-title, .site-title:visited {
-  background-color: grey; 
+  color: black; 
 }
