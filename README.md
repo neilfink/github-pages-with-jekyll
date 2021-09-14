@@ -1,4 +1,4 @@
-https://neilfink.github.io/github-pages-with-jekyll/
+https://neilfink.github.io/neils-portfolio/
 
 # Your GitHub Learning Lab Repository for GitHub Pages
 
