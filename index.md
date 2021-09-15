@@ -14,7 +14,7 @@ I have quite a few games and lots of example code. Down below, I'll feature some
 
 ## Here is the main class of a Java game called ChickenTime.
 <details>
-  <summary>Click to expand!</summary>
+<summary>Click to expand!</summary>
 
 ```java
 package ChickenTime;
@@ -217,5 +217,4 @@ public class ChickenPen {
 }
 
 ```
-    
-    </details>
+</details>
