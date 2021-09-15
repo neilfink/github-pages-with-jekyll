@@ -15,6 +15,7 @@ I have quite a few games and lots of example code. Down below, I'll feature some
 ## Here is the main class of a Java game called ChickenTime.
 
 ```java
+
 package ChickenTime;
 
 import java.util.Scanner;
@@ -209,3 +210,5 @@ public class ChickenPen {
     }
 
 }
+
+```
