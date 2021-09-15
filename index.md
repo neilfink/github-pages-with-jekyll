@@ -13,8 +13,6 @@ I also consider myself a hobbyist game designer, and I am working towards a stro
 I have quite a few games and lots of example code. Down below, I'll feature some of my all-time favourite snippets of code that I've written.
 
 ## Here is the main class of a Java game called ChickenTime.
-<details>
-<summary>Click to expand!</summary>
 
 ```java
 package ChickenTime;
@@ -22,10 +20,6 @@ package ChickenTime;
 import java.util.Scanner;
 
 /**
- * Object-oriented programming, Assignment 2.
- * ChickenCraft, a game where the user can spawn chickens, feed them, make them play together, get eggs and hit chickens.
- * Game includes 2 classes which interact via methods.
- *
  * @author Neil Fink, 2021
  */
 
@@ -215,6 +209,3 @@ public class ChickenPen {
     }
 
 }
-
-```
-</details>
