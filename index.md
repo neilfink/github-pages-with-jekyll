@@ -13,6 +13,10 @@ I also consider myself a hobbyist game designer, and I am working towards a stro
 I have quite a few games and lots of example code. Down below, I'll feature some of my all-time favourite snippets of code that I've written.
 
 ## Here is the main class of a Java game called ChickenTime.
+
+<details><summary>Click me to see ChickenTime!</summary>
+<p>
+
 ```java
 package ChickenTime;
 
@@ -214,3 +218,5 @@ public class ChickenPen {
 }
 
 ```
+    </p>
+</details>
