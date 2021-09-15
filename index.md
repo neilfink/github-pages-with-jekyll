@@ -1,3 +1,13 @@
+```{css, echo=FALSE}
+pre {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+pre[class] {
+  max-height: 100px;
+}
+```
 # Hello! Thank you for landing here.
 
 This is my portfolio site, where I host my work.
