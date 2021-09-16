@@ -7,5 +7,5 @@ docs:
 - title: About
   url: about.html
   
-  - title: Play my Kaboom.Js Game!
+- title: Play my Kaboom.Js Game!
   url: game.html
