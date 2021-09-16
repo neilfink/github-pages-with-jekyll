@@ -1,17 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title>My first JS game!</title>
-        <style>
-            body {
-                background-color: black;
-            }
-        </style>
-    </head>
-
-    <body>
-        <script type="module">
+<script type="module">
 
             // import kaboom lib
             import kaboom from "https://unpkg.com/kaboom@next/dist/kaboom.mjs";
@@ -41,5 +29,4 @@
             ])
             
         </script>
-    </body>
-</html>
+        
