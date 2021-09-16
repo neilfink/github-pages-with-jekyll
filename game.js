@@ -1,11 +1,10 @@
 kaboom({
     global: true,
-    fullscreen: true,
     width: 320,
     height: 240,
     stretch: true,
     letterbox: true,
-    clearColor: [ 0, 0, 255],
+    clearColor: [ 0, 0, 0],
 });
 
 loadRoot('https://i.imgur.com/');
