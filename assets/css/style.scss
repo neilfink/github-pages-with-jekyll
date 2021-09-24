@@ -79,9 +79,7 @@ h2 {
 .header-nav {
     width: 55%;
     white-space: nowrap;
-    color: white;
     font-weight: bold;
-    text-align: center;
 }
 
 .nav-list li {
@@ -89,4 +87,10 @@ h2 {
     white-space: nowrap;
     padding-right: 20px;
     padding-left: 20px;
+    text-align: center;
+    color: white;
+}
+
+.nav-list li:visited {
+    color: white;
 }
