@@ -24,6 +24,13 @@
                 <div class="header-image">
                     <img class="profile-image" src="https://i.imgur.com/12QmTq5.jpg" alt="Neil's profile picture">
                 </div>
+                <div class="header-nav">
+                  <ul>
+                     {% for item in site.data.samplelist.docs %}
+                        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                     {% endfor %}
+                  </ul>
+                </div>
                 <div class="header-links">
                     <a href="https://github.com/neilfink" title="My GitHub Profile"><img class="header-link" src="https://i.imgur.com/CYZpR0C.png" alt="Github link"></a>
                     <a href="https://www.linkedin.com/in/mrnfink" title="My LinkedIn Profile"><img class="header-link" src="https://i.imgur.com/3dhECPw.png" alt="LinkedIn link">
@@ -31,18 +38,9 @@
                 </div>
             </div>
         </header>
-<div>
-    <ul>
-       {% for item in site.data.samplelist.docs %}
-          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-       {% endfor %}
-    </ul>
- </div>
     
-<div>
     <main id="content" class="main-content" role="main">
       {{ content }}
-</div>
   
 {% if !site.page.is_game %}
       <footer class="site-footer">
