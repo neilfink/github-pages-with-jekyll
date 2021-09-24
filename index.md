@@ -65,3 +65,17 @@ public GameController(int tileSize, int worldX, int worldY) {
 Have a look at the game in action.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3AbFq_-tBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## 3D FPS Dungeon Crawler Example
+
+I made this to test out lighting and holding a sword in front of an FP cam. I liked it and thought it looked very cool, something I would like to turn into a fully-featured game eventually.
+I made this piece without any sort of tutorials, I simply kept GML documentation open and experimented until I got a good result.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GSoilj9MPO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Tower of Blackliffe
+
+I had started this game in 2017. However, I made a revision early this year, and I improved the overall quality of the game.
+
