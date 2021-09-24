@@ -79,3 +79,6 @@ I made this piece without any sort of tutorials, I simply kept GML documentation
 
 I had started this game in 2017. However, I made a revision early this year, and I improved the overall quality of the game.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seOKVvTbWqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
