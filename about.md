@@ -20,4 +20,4 @@ Fast-forward to today, where I'm ready to take my skills into a real workplace. 
 
 Thank you for reading, and please feel free to explore my links further up above.
 
-<em>Neil F.</em>
+<b>Neil F.</b>
