@@ -1,8 +1,5 @@
-This portfolio is still under construction, and most likely will be for quite a while.
-
-**My links in the top-right of the page work though.**
-
 I have much of my coding work stored in private repos for academic purposes. However, I have a showcase of my games recorded, and GameMaker source code listed here as well.
+Feel free to check out my links at the top-right of this page.
 
 ## 3D FPS Dungeon Crawler Example
 
